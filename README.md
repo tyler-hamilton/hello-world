@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-This is my story, this is my song
+This is my awesome first day of code. 
